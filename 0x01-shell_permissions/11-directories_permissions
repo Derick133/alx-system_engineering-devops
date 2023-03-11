@@ -1,1 +1,2 @@
-directories permission
+#!/bin/bash
+chmod -R + X.
