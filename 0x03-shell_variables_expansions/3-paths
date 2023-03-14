@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $PATH | tr ':' '\n' | wc -1
+$PATH=/user/local/sbin:/usr/local/bin/usr/sbin:/usr/bin:/bin:/action
